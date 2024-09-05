@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gird {
+    background-color:aqua;
+    border: 1px solid seagreen;
+    height: 50px;
+    flex: 0 0 6%;
+}
